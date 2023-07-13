@@ -8,5 +8,5 @@
 * PHP 7.4
 
 #### Бота можно потыкать:
-1. @RelevantWeatherBot - ник в телеграме.
-2. [RelevantWeatherBot](https://web.telegram.org/k/#@RelevantWeatherBot) - ссылка.
+1. @RelevntWeatherBot - ник в телеграме.
+2. [RelevntWeatherBot](https://web.telegram.org/k/#@RelevntWeatherBot) - ссылка.
